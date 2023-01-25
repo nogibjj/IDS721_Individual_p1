@@ -1,5 +1,5 @@
 [package]
-name = "say_Hi"
+name = "say_hi"
 version = "0.1.0"
 edition = "2021"
 
