@@ -1,4 +1,4 @@
-# rust-new-project-template
+# IDS_Individual_p1
 A good starting point for a new Rust project
 
 ## Usage
